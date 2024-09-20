@@ -1,0 +1,8 @@
+move(1,90)
+turn(90)
+move(1,90)
+turn(90)
+move(1,90)
+turn(90)
+move(1,90)
+turn(90)
